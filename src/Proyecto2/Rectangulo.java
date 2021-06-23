@@ -51,4 +51,44 @@ public class Rectangulo extends Cuadrilatero {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
+    @Override
+    public void setY4R(double y4R) {
+        super.setY4R(y4R); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setY3R(double y3R) {
+        super.setY3R(y3R); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setY2R(double y2R) {
+        super.setY2R(y2R); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setY1R(double y1R) {
+        super.setY1R(y1R); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setX4R(double x4R) {
+        super.setX4R(x4R); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setX3R(double x3R) {
+        super.setX3R(x3R); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setX2R(double x2R) {
+        super.setX2R(x2R); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setX1R(double x1R) {
+        super.setX1R(x1R); //To change body of generated methods, choose Tools | Templates.
+    }
+
 }

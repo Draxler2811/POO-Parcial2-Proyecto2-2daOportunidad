@@ -51,4 +51,44 @@ public class Trapecio extends Cuadrilatero {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
+    @Override
+    public void setY4T(double y4T) {
+        super.setY4T(y4T); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setY3T(double y3T) {
+        super.setY3T(y3T); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setY2T(double y2T) {
+        super.setY2T(y2T); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setY1T(double y1T) {
+        super.setY1T(y1T); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setX4T(double x4T) {
+        super.setX4T(x4T); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setX3T(double x3T) {
+        super.setX3T(x3T); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setX2T(double x2T) {
+        super.setX2T(x2T); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setX1T(double x1T) {
+        super.setX1T(x1T); //To change body of generated methods, choose Tools | Templates.
+    }
+
 }
